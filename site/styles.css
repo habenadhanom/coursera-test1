@@ -2,13 +2,10 @@
 * {
 	box-sizing: border-box;
 }
-	h1{
-		margin-bottom: 500px
-		        
-		color: blue;
-		text-align: center;
 
-	}
+     h1{
+     	text-align: center;
+     }
 	
 	 p1{
 
@@ -46,16 +43,17 @@
 	 	 font-size: large;
 
 	 }
+
 	p{
 		border: 5px solid black;
-		padding: 0px;
+		padding-left:  10px;
 		margin: 20px;
-        background-color: #0030D0;
+        background-color: gray;
         width:95%;
          height: 200px;
          top: 0px;
          left: 0px;
-         text-align: center;
+        
      }
 
       .row{width: 100%;
@@ -208,4 +206,4 @@
       	 }
       	 
 
-        body { background-color: gray; }
+        body { background-color: white; }
