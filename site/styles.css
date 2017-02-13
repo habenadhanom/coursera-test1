@@ -40,16 +40,24 @@
 	 	border: solid black;
 	 	padding: 05px;
 	 }
+	 p4{
+	 	 text-decoration-style: solid;
+	 	text-overflow: auto;
+	 	 font-size: large;
+
+	 }
 	p{
 		border: 5px solid black;
 		padding: 0px;
+		margin: 20px;
         background-color: #0030D0;
-        width:90%;
-         height: 150px;
+        width:95%;
+         height: 200px;
          top: 0px;
          left: 0px;
+         text-align: center;
      }
-    
+
       .row{width: 100%;
       }
       @media (min-width: 1200px) {
