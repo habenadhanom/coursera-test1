@@ -25,7 +25,7 @@
 	 	right: 0px;
 	 	float: right; 
 	 	border: solid black;
-	 	padding: 5px;
+	 	padding: 1px;
 	 }
 	  p3{
 
@@ -35,7 +35,7 @@
 	 	right: 0px;
 	 	float: right;
 	 	border: solid black;
-	 	padding: 05px;
+	 	padding: 01px;
 	 }
 	 p4{
 	 	 text-decoration-style: solid;
@@ -45,7 +45,7 @@
 	 }
 
 	p{
-		border: 5px solid black;
+		border: 1px solid black;
 		padding-left:  10px;
 		margin: 20px;
         background-color: gray;
